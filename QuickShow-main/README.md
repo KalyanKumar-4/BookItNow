@@ -1,6 +1,6 @@
 <div align="center">
 
-# QUICKSHOW 
+# BookItNow 
 
 *Seamless Video Discovery. Effortless Entertainment Experience*
 
