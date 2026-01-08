@@ -1,12 +1,8 @@
 <div align="center">
 
-# QUICKSHOW 🎬🍿🎥
+# QUICKSHOW 
 
 *Seamless Video Discovery. Effortless Entertainment Experience*
-
-![Last Commit](https://img.shields.io/badge/last%20commit-today-brightgreen)
-![JavaScript](https://img.shields.io/badge/javascript-98.8%25-yellow)
-![Languages](https://img.shields.io/badge/languages-3-blue)
 
 **Built with the tools and technologies:**
 
