@@ -55,19 +55,6 @@ vercel --prod
 - Ensure all tests pass before submitting PR
 
 ---
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/elyse502/QuickShow/blob/main/LICENSE) file for details.
-
----
-
-## Support
-
-For support, email elyseniyibizi502@gmail.com or create an issue in the GitHub repository.
-
----
-
 [⬆ Back to Top](#table-of-contents)
 
 </div>
